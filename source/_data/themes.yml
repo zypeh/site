@@ -2638,3 +2638,12 @@
     - Customizable
     - Sticky
     - Slideshow
+- name: hexo-brutalist-theme
+  description: R A W C O D E
+  link: https://github.com/zypeh/hexo-theme-brutalist
+  preview:
+  tags:
+    - Sidebar
+    - Responsive
+    - Table Of Content
+    - Caption aside
